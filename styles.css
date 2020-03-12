@@ -1,0 +1,41 @@
+
+body {
+    background-color: white;
+}
+.header {
+    height: 275px;
+    border-style: solid;
+    border-width: 25px;
+    border-color: white;
+    background-image: url("leaves.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header-section {
+    text-align: center;
+    position: relative;
+    padding-top: 55px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+.frame-wrapper {
+    text-align: center;
+    margin: 0;
+    width: 100%;
+}
+p {
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+    background-color: white;
+    color: black;
+    word-spacing: 5px;
+    letter-spacing: 12px;
+    line-height: 36px;
+    
+}
